@@ -216,4 +216,4 @@ This project is for educational purposes. AWS services usage subject to AWS term
 
 **Built with**: AWS Lambda, Lex, Rekognition | Python | Streamlit | SMHI API
 
-**Last Updated**: December 2024
+**Last Updated**: April 2025
